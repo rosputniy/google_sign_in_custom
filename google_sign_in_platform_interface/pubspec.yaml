@@ -1,6 +1,6 @@
 name: google_sign_in_platform_interface
 description: A common platform interface for the google_sign_in plugin.
-publish_to: none
+publish_to: "none"
 version: 2.0.1
 
 environment:
